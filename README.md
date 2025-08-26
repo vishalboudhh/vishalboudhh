@@ -33,7 +33,6 @@
 ### 🌟 Connect With Me
 <p align="center">
   <a href="mailto:vishalmeshram211@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/vishal-meshram-67a99b227/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://vishalportfolio-ten.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=portfolio" /></a>
 </p>
