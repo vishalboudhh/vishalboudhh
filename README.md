@@ -34,5 +34,7 @@
 <p align="center">
   <a href="mailto:vishalmeshram211@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/vishal-meshram-67a99b227/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://vishalportfolio-ten.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=portfolio" /></a>
+  <a href="https://vishalportfolio-ten.vercel.app" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" alt="portfolio" />
+</a>
 </p>
