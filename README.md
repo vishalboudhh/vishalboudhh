@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Software Developer 🚀</h3>
 
 <p align="center">
-  🌐 Portfolio: <a href="https://vishalmeshram.vercel.app/" target="_blank">vishalportfolio-ten.vercel.app</a>  
+  🌐 Portfolio: <a href="https://vishalmeshram.vercel.app/" target="_blank">vishalportfolio</a>  
   📫 Reach me at: <strong>vishalmeshram211@gmail.com</strong>
 </p>
 
